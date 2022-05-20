@@ -28,17 +28,19 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![Desktop View](./Screenshot/Screenshot_desktop.png)
+
+Above screenshot is of design view. That shows how it was design.
+
 
 ![Mobile View](./Screenshot/Screenshot_mobile.png)
-Above screenshot is of mobile view. That shows how it was design.
 
-![Desktop View](./Screenshot/Screenshot_desktop.png)
-Above screenshot is of design view. That shows how it was design.
+Above screenshot is of mobile view. That shows how it was design.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here for solution](https://your-solution-url.com)
+- Live Site URL: [click here for live site](https://your-live-site-url.com)
 
 ## My process
 
