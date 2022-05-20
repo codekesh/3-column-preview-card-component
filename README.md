@@ -40,7 +40,7 @@ Above screenshot is of mobile view. That shows how it was design.
 ### Links
 
 - Solution URL: [Click here for solution](https://github.com/codekesh/3-column-preview-card-component.git)
-- Live Site URL: [click here for live site]([https://your-live-site-url.com](https://codekesh.github.io/3-column-preview-card-component/))
+- Live Site URL: [click here for live site](https://codekesh.github.io/3-column-preview-card-component/)
 
 ## My process
 
